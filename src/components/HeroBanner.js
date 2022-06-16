@@ -1,5 +1,6 @@
 import React from 'react'
 import { Box, Stack, Typography } from '@mui/material'
+
 import HeroBannerImage from '../assets/images/banner.png'
 
 const HeroBanner = () => (
@@ -21,7 +22,7 @@ const HeroBanner = () => (
       And Repeat
     </Typography>
     <Typography fontSize='22px' lineHeight='35px'>
-      Check out the most effective exercises
+      Check out the most effective exercises personalized to you
     </Typography>
     <Stack>
       <a
